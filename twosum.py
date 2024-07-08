@@ -15,4 +15,4 @@ class Solution:
           return[i,map[diff]]
         d[diff[i]]=i
         
-      
+      return[]
